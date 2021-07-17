@@ -20,7 +20,7 @@
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagoths&show_icons=true&theme=dracula&locale=en" alt="tiagoths" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagoths&show_icons=true&theme=dracula&locale=en&layout=compact" alt="tiagoths" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tiagoths&show_icons=true&theme=dracula&locale=en&layout=compact&exclude_repo=EstudosPython" alt="tiagoths" />
 </div>
 
 
